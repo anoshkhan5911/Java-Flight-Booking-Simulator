@@ -1,83 +1,22 @@
 # ✈️ Flight Booking and Reservation System
 
-A complete Java-based Flight Booking and Reservation System designed to simulate a real-world airline booking environment. This application provides an end-to-end solution for managing flights, reservations, cancellations, and revenue tracking through an intuitive desktop interface.
+I developed a complete Java-based Flight Booking and Reservation System to simulate a real-world airline booking environment. This project covers the full booking lifecycle, from flight search and seat availability to ticket booking, cancellation, and revenue tracking.
 
-## 🚀 Features
+### Key Features
 
-* **Flight Search & Availability** – Search available flights with real-time seat availability.
-* **Smart Seat Management** – Automatically manages seat allocation and updates availability.
-* **Secure Booking Process** – Book flights with built-in validation and payment verification.
-* **Ticket Cancellation** – Cancel bookings with automatic seat restoration.
-* **Admin Dashboard** – Manage flights, schedules, and system operations.
-* **Revenue Analytics** – Monitor sales, bookings, and overall system revenue.
-* **Passenger Monitoring** – Track passenger records and booking history.
-* **System Logging** – Maintain logs for transactions and system activities.
+* Flight search with real-time seat availability
+* Smart seat allocation and booking management
+* Secure booking and payment validation
+* Ticket cancellation with automatic seat restoration
+* Admin panel for flight and schedule management
+* Passenger monitoring and revenue analytics
+* File-based data storage and transaction logging
 
-## 🛠️ Tech Stack
+### Technologies Used
 
-* **Language:** Java
-* **GUI Framework:** Java Swing
-* **Core Concepts:** Object-Oriented Programming (OOP)
-* **Data Storage:** File-based persistence
+* Java
+* Java Swing
+* Object-Oriented Programming (OOP)
+* File Handling and Persistence
 
-## 🎯 Key Highlights
-
-* Modern and user-friendly Java Swing interface
-* Interactive dashboard with custom controls
-* Smooth workflow for booking and cancellations
-* Secure admin authentication and access control
-* Robust validation for bookings and transactions
-* Enterprise-style architecture using core Java principles
-
-
-## ▶️ Getting Started
-
-### Prerequisites
-
-* Java JDK 8 or later
-* Any Java IDE (IntelliJ IDEA, Eclipse, or NetBeans)
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/flight-booking-system.git
-   ```
-2. Open the project in your preferred Java IDE.
-3. Compile and run the main application file.
-
-## 💡 Learning Outcomes
-
-This project demonstrates:
-
-* Real-world application of Java and OOP principles
-* Desktop GUI development with Java Swing
-* File handling and persistent data storage
-* Business logic implementation for airline operations
-* Integration of frontend, backend, and data layers
-
-## 🔮 Future Enhancements
-
-* Database integration (MySQL/PostgreSQL)
-* Online payment gateway integration
-* Multi-user role management
-* Email and SMS notifications
-* Advanced reporting and analytics
-* Web-based version using Spring Boot
-
-## 📸 Screenshots
-
-Add application screenshots here to showcase the interface and features.
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-## 📜 License
-
-This project is open source and available under the MIT License.
-
----
-
-**Built with Java, designed for real-world problem solving.**
+This project strengthened my understanding of Java, GUI development, and system design by combining frontend, backend, and data handling into a complete real-world application.
